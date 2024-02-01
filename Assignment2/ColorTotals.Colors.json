@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "65bbf8ac8559ba50fbb057a8"
+  },
+  "color": "Blue",
+  "Quater": 1,
+  "Sold Quantity": 230
+},
+{
+  "_id": {
+    "$oid": "65bbf8f08559ba50fbb057a9"
+  },
+  "color": "Blue",
+  "Quater": 2,
+  "Sold Quantity": 452
+},
+{
+  "_id": {
+    "$oid": "65bbf8fb8559ba50fbb057aa"
+  },
+  "color": "Blue",
+  "Quater": 3,
+  "Sold Quantity": 6351
+},
+{
+  "_id": {
+    "$oid": "65bbf9058559ba50fbb057ab"
+  },
+  "color": "Blue",
+  "Quater": 4,
+  "Sold Quantity": 5280
+},
+{
+  "_id": {
+    "$oid": "65bbf9158559ba50fbb057ac"
+  },
+  "color": "Red",
+  "Quater": 1,
+  "Sold Quantity": 2453
+},
+{
+  "_id": {
+    "$oid": "65bbf91f8559ba50fbb057ad"
+  },
+  "color": "Red",
+  "Quater": 2,
+  "Sold Quantity": 3486
+},
+{
+  "_id": {
+    "$oid": "65bbf9288559ba50fbb057ae"
+  },
+  "color": "Red",
+  "Quater": 3,
+  "Sold Quantity": 1535
+},
+{
+  "_id": {
+    "$oid": "65bbf9308559ba50fbb057af"
+  },
+  "color": "Red",
+  "Quater": 4,
+  "Sold Quantity": 1250
+},
+{
+  "_id": {
+    "$oid": "65bbf93c8559ba50fbb057b0"
+  },
+  "color": "Silver",
+  "Quater": 1,
+  "Sold Quantity": 814
+},
+{
+  "_id": {
+    "$oid": "65bbf9458559ba50fbb057b1"
+  },
+  "color": "Silver",
+  "Quater": 2,
+  "Sold Quantity": 1039
+},
+{
+  "_id": {
+    "$oid": "65bbf94b8559ba50fbb057b2"
+  },
+  "color": "Silver",
+  "Quater": 3,
+  "Sold Quantity": 5788
+},
+{
+  "_id": {
+    "$oid": "65bbf9538559ba50fbb057b3"
+  },
+  "color": "Silver",
+  "Quater": 4,
+  "Sold Quantity": 4511
+}]
